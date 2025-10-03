@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()  
 
 ## 📖 Project Overview  
-Deep learning project for image classification using Keras and TensorFlow on the Fashion-MNIST dataset. Includes baseline and optimized CNN models in Jupyter notebooks, along with a final project report.  
+Deep learning project using convolutional neural networks (CNNs) with Keras/TensorFlow on the Fashion-MNIST dataset. Includes baseline and optimized architectures, training notebooks, and a final project report with evaluation results. 
 
 ## 📂 Repository Structure  
 ```
