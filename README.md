@@ -1,41 +1,55 @@
-# 🧠 Deep Learning for Image Classification
+# 📦 Deep Learning for Image Classification
 
-[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-DeepLearning-red.svg)](https://keras.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)]()  
+[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)]()  
 
-## 📖 Project Overview
-Deep learning project for image classification using **Keras** and **TensorFlow** on the **Fashion-MNIST** dataset.  
-Includes baseline and optimized models in Jupyter notebooks, along with a final project report.
+## 📖 Project Overview  
+Deep learning project for image classification using Keras and TensorFlow on the Fashion-MNIST dataset. Includes baseline and optimized CNN models in Jupyter notebooks, along with a final project report.  
 
-## 📂 Repository Structure
-- `notebooks/` — Jupyter notebooks with baseline and optimized models
-- `results/` — Final report and results
-- `figures/` — (reserved for plots/visuals)
-- `requirements.txt` — Python dependencies
-- `.gitignore` — Common ignores for Python/Jupyter
-- `LICENSE` — MIT open source license
+## 📂 Repository Structure  
+```
+├── src/           # Source code  
+├── notebooks/     # Jupyter notebooks (if applicable)  
+├── data/          # Input datasets or links to data sources  
+├── results/       # Reports, visualizations, slides  
+├── figures/       # Images/plots  
+├── requirements.txt  
+├── LICENSE  
+└── README.md  
+```  
 
-## ⚡ Quickstart
-
-1) **Clone the repo**
+## ⚡ Quickstart  
 ```bash
 git clone https://github.com/mccainalena1/Deep-Learning-for-Image-Classification.git
 cd Deep-Learning-for-Image-Classification
-```
-
-2) **Install dependencies**
-```bash
 pip install -r requirements.txt
+jupyter notebook
 ```
 
-3) **Run Jupyter notebooks**
-```bash
-jupyter notebook notebooks/
-```
+## 📊 Data  
+Brief description of datasets used (links or included files).  
 
-## 📊 Results
-- Final report is available under `results/Final_Report.pdf`.
+## 🧠 Modeling Approach  
+Outline methods, algorithms, or models applied.  
 
-## 📜 License
-MIT License.
+## 🎯 Results & Artifacts  
+- Key findings, accuracy/metrics  
+- Reports and presentations in `/results`  
+- Visualizations in `/figures`  
+
+## 🌐 Visualizations  
+Embed or link to plots, figures, or interactive artifacts.  
+
+## 🔁 Reproducibility  
+- Random seeds used  
+- Instructions for rerunning experiments  
+
+## 🚀 Next Steps  
+Possible extensions, limitations, or future improvements.  
+
+## 📜 License  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
+
+## 👤 Contact  
+**Alena McCain** — [LinkedIn](https://www.linkedin.com/in/alena-mccain-815a09136)  
